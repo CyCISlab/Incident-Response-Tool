@@ -1,0 +1,7 @@
+Ways to mitigate an DNS attack
+
+1. Ensure data only from trusted DNS resolvers is
+sent, these resolvers should only accept requests
+from trusted sources too.
+
+2. Stop spoofed packets from entering the network

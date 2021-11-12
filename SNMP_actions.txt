@@ -1,0 +1,3 @@
+Ways to mitigate an SNMP attack
+
+1. Stop spoofed packets from entering the network

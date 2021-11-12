@@ -1,0 +1,6 @@
+Ways to mitigate an NTP attack
+
+1. Disable the command monlist or reduce the number of 
+NTP servers which support this command.
+
+2. Stop spoofed packets from entering the network
